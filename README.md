@@ -1,0 +1,1 @@
+# QueryDSL-SpringBoot MYSQL example
